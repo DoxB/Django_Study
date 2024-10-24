@@ -9,5 +9,8 @@ urlpatterns = [
     # blog 앱 내부의 경로를 지정할 부분
     # name= 개발자가 이 주소를 부를 이름
     path('', views.main, name='main'), # localhost:8000/blog 경로, 경로를 호출하면 실행할 함수의 위치
-    path('portfolio-details.html', views.pf_detail, name='pf_detail')
+    # path('portfolio-details.html', views.pf_detail, name='pf_detail'),
+    path('portfolio-details_gov.html', views.pf_detail_gov, name='pf_detail_gov'),
+    path('portfolio-details_rag.html', views.pf_detail_rag, name='pf_detail_rag'),
+    path('portfolio-details_univ.html', views.pf_detail_univ, name='pf_detail_univ'),
 ]

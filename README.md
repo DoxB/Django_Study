@@ -27,3 +27,27 @@ back-end: Django
 
 ### 작업방식
 본인 폴더에서 작업 및 PR
+
+<br>
+
+### 결과
+<table>
+ <tr>
+    <td align="center"><a href="https://markdoxb.store"><img src="https://avatars.githubusercontent.com/DoxB" width="150px;" alt=""></td>
+    <td align="center"><a href="https://juyeon0312.github.io/portfolio/"><img src="https://avatars.githubusercontent.com/juyeon0312" width="150px;" alt=""></td>
+    <td align="center"><a href="https://odung.shop"><img src="https://avatars.githubusercontent.com/Coke-Eating-Polarbear" width="150px;" alt=""></td>
+    <td align="center"><a href="https://kimnagyeong99.github.io/Nagyeong_Portfolio/"><img src="https://avatars.githubusercontent.com/kimnagyeong99" width="150px;" alt=""></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/DoxB"><b>임정규</b></td>
+    <td align="center"><a href="https://github.com/juyeon0312"><b>손주연</b></td>
+    <td align="center"><a href="https://github.com/Coke-Eating-Polarbear"><b>김명준</b></td>
+    <td align="center"><a href="https://github.com/kimnagyeong99"><b>김나경</b></td>
+  </tr>
+  <tr>
+    <td align="center">Python</td>
+    <td align="center">Python</td>
+    <td align="center">Python</td>
+    <td align="center">Python</td>
+  </tr>
+</table>
